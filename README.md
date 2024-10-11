@@ -32,6 +32,7 @@ Task 3 Description :
   Categorical Plots: These are used to visualize data that can be grouped into categories.
   Regression Plots: To visualize data trends and relationships.
   Matrix Plots: These are used to compare multiple variables simultaneously.
+  
   Notebook Link: https://colab.research.google.com/drive/1G5y2RnuGN6duzSnRMz1JzsIIw2cYcxZU?usp=sharing
   
 Task 4 Description :
@@ -39,12 +40,14 @@ Task 4 Description :
   various chart types, including pie, column, and line charts, each suited for different data representations, along with their specific applications. 
   PivotTables, for summarizing and analyzing large datasets, detailing their components: columns, rows, filters, and values. 
   Excel functions, such as SUM, IF, VLOOKUP, COUNTIF, and AVERAGE,  facilitate data manipulation and analysis.
+  
   Task Link: https://drive.google.com/drive/folders/1bwAVu9QsieIc8bmu126QHgetXXO1XTT_?usp=sharing
 
 Task 5 Description :
   creating interactive dashboards and reports from various data sources, enabling users to visualize data. 
   Power BI’s components, architecture, advantages, along with the differences between dashboards and reports.
   it delves into Data Analysis Expressions (DAX), explaining its syntax, context, and various functions for performing calculations.
+  
   Task Link: https://drive.google.com/drive/folders/18u0PgyfiFaIj1xDzOB5pZri2qurn4hf3?usp=sharing
   
 Task 6 Description :
@@ -65,6 +68,7 @@ Task 6 Description :
   The cleaned dataset is imported to Power BI for dynamic analysis.
   Users can create interactive dashboards displaying sales trends over time, product category performance, and customer demographics.
   Features such as slicers allow for filtering by factors like location and event, enhancing data exploration capabilities.
+  
   Task Link: https://drive.google.com/drive/folders/1CUqCmduasPBPP4SEEHhBGO44IUO_PBI-?usp=sharing
   
   
