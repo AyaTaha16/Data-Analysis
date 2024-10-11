@@ -1,6 +1,7 @@
 Task 1 Description :
   This Task involves analyzing a movie dataset using Python and the Pandas library. 
   The dataset, sourced from Kaggle, contains various attributes related to movies, including details about directors, actors, and audience ratings.
+  
   Notebook Link: https://colab.research.google.com/drive/1BjBLej3c8dSZbO01sQLUmePCVlFvPJmv?usp=sharing
   
 Task 2 Description : 
@@ -14,6 +15,7 @@ Task 2 Description :
    scores of four different students in five subjects. Each group of bars should represent one subject with bars colored
    differently for each student. Add a custom legend, and ensure the bars are labeled with their respective scores and
    ordered by the highest to lowest scores for each subject.
+   
    Notebook Link: https://colab.research.google.com/drive/1-E6PUUIDQqiCY_YNYkeokL7eHHiHoxK-?usp=sharing
    
    
